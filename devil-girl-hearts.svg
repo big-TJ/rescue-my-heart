@@ -1,0 +1,56 @@
+<svg width="900" height="300" viewBox="0 0 900 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Devil girl looking down and laughing while sending hearts</title>
+  <desc id="desc">A playful devil girl at the top looking down saying evil laugh and throwing hearts.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffeaf4"/>
+      <stop offset="100%" stop-color="#ffd3e7"/>
+    </linearGradient>
+    <linearGradient id="dress" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#d93a74"/>
+      <stop offset="100%" stop-color="#b71d57"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="300" rx="36" fill="url(#bg)"/>
+
+  <g opacity="0.25" fill="#ff6ea7">
+    <circle cx="120" cy="80" r="28"/>
+    <circle cx="790" cy="92" r="24"/>
+  </g>
+
+  <g transform="translate(248,34)">
+    <path d="M105 58 C90 20, 60 20, 44 48 C72 45, 90 55, 105 58Z" fill="#b71d57"/>
+    <path d="M180 58 C195 20, 225 20, 241 48 C213 45, 195 55, 180 58Z" fill="#b71d57"/>
+
+    <circle cx="142" cy="82" r="56" fill="#ffd8c0"/>
+    <path d="M84 92 C92 44, 124 23, 170 30 C198 34, 214 57, 208 94 C178 66, 132 58, 84 92Z" fill="#3d2230"/>
+
+    <ellipse cx="123" cy="88" rx="5" ry="4.4" fill="#2b1723"/>
+    <ellipse cx="160" cy="88" rx="5" ry="4.4" fill="#2b1723"/>
+    <circle cx="123" cy="91" r="1.5" fill="#ffffff"/>
+    <circle cx="160" cy="91" r="1.5" fill="#ffffff"/>
+
+    <path d="M118 108 Q142 132 166 108" stroke="#b31a53" stroke-width="6" fill="none" stroke-linecap="round"/>
+    <path d="M132 112 L138 112" stroke="#fff" stroke-width="2"/>
+    <path d="M146 112 L152 112" stroke="#fff" stroke-width="2"/>
+
+    <path d="M76 138 Q142 174 208 138 L228 252 L56 252 Z" fill="url(#dress)"/>
+    <path d="M50 165 Q20 184 10 220" stroke="#b71d57" stroke-width="12" fill="none" stroke-linecap="round"/>
+    <path d="M220 164 Q258 175 294 132" stroke="#b71d57" stroke-width="12" fill="none" stroke-linecap="round"/>
+
+    <path d="M296 126 C311 115, 330 121, 334 140 C330 158, 309 162, 296 147" fill="none" stroke="#ff5f96" stroke-width="7" stroke-linecap="round"/>
+    <path d="M296 147 C280 159, 261 154, 256 136 C260 118, 282 115, 296 126" fill="none" stroke="#ff5f96" stroke-width="7" stroke-linecap="round"/>
+  </g>
+
+  <g fill="#ff4f91" opacity="0.96">
+    <path d="M590 138 C590 113, 563 107, 553 126 C543 107, 516 113, 516 138 C516 160, 536 174, 553 186 C570 174, 590 160, 590 138Z"/>
+    <path d="M664 98 C664 80, 645 76, 638 91 C631 76, 612 80, 612 98 C612 113, 626 124, 638 132 C650 124, 664 113, 664 98Z"/>
+    <path d="M735 154 C735 133, 713 129, 706 144 C699 129, 677 133, 677 154 C677 171, 692 183, 706 193 C720 183, 735 171, 735 154Z"/>
+    <path d="M806 114 C806 98, 789 95, 783 107 C777 95, 760 98, 760 114 C760 127, 772 136, 783 144 C794 136, 806 127, 806 114Z"/>
+  </g>
+
+  <text x="36" y="268" font-size="34" font-family="Trebuchet MS, Segoe UI, sans-serif" font-weight="700" fill="#b71d57">내 하트를 받아라 💘</text>
+  <text x="326" y="56" font-size="30" font-family="Trebuchet MS, Segoe UI, sans-serif" font-weight="700" fill="#8f1045">음하하 😈</text>
+</svg>
